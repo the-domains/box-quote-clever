@@ -1,0 +1,28 @@
+name: Box Quote Clever
+favicon: null
+layout_spectrum: 0.4813042529858649
+typography_spectrum: 0.7286571955773979
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8096263958141208
+  lightness: 0.31796007975935936
+  saturation: 0.07836484792642295
+  rhythmicContrast: 0.8491381446365267
+purpose: []
